@@ -4,6 +4,13 @@
 
 We are building **Model A (state detector)** only. Do not build Model B, the experiment ladder, the backtest or any UI. Model B is described below only so Model A produces what B will need.
 
+## Status and next step
+
+- **No code exists yet.** The repo holds documentation only. Do not look for existing modules.
+- **First step:** ask the user to decide the market and headline source (see Open decisions below).
+- **Then:** ask the user whether to start with regime or build both parts together.
+- Update this section when a step is done.
+
 ## The project in brief
 
 ML course project (classical ML only: scikit-learn, hmmlearn). Two models with a slot between them:
