@@ -18,6 +18,8 @@ A two-model system that combines a trader's view of the market with quant data t
 | 4 | Koushik Araveti | 240512 |
 | 5 | Krish Shrama | 240514 |
 
+> **Current focus: Model A (state detector) only.** See [docs/model-a.md](docs/model-a.md).
+
 ## Summary
 
 Traders make decisions in two broad ways. Discretionary traders read the news, weigh what is happening in politics, technology and the economy, and decide for themselves. Quant traders let models built from past data decide. Each method has its own gaps: a trader cannot recall how the market behaved in every similar situation over the last ten years, and a model cannot read tomorrow's headlines.

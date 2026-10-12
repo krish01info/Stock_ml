@@ -1,5 +1,9 @@
 # Project context for AI assistants
 
+## Current focus: Model A only
+
+We are working on **Model A (state detector)** only. Do not build Model B or the experiments yet. Before any Model A work, read `ai/model-a.md`.
+
 **Trading on Judgement** — ML course project. Model A labels each past day with a regime (slow: calm/volatile/crisis) and mood (fast news reaction: positive/neutral/negative). Model B takes quant facts + market state and returns P(up) over the next k days. At prediction time a trader's regime and mood replace Model A's. Goal: find the break-even accuracy at which trader judgement beats quant facts alone.
 
 Classical ML only (scikit-learn, hmmlearn). Full design: `README.md` and `docs/` — read only the chapter you need.
